@@ -5,7 +5,8 @@ body {
 	font-size: 16px;
 	margin: 0;
 	padding: 0;
-	background-color: ;
+	width: 100%;
+	background: rgb(66, 58, 58);
 }
 
 #cabecera {
@@ -33,19 +34,20 @@ img {
 }
 
 #container {
-	width: 80%;
+	width: 70%;
 	padding: 1cm;
 	text-align: justify;
 	border: 10px solid #292218;
-	margin: 20 50;
-	background-color: #292218;
+	margin:20 auto;
+	background-color: #f8f8f8;
 }
 
 #container h1 {
 	font-size: 25px; 
 	}
 #post {
-	background: rgb(197, 177, 177);
+	background: rgb(255, 255, 255);
+	
 }
 ]
 ]
