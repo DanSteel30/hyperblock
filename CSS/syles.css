@@ -8,19 +8,27 @@ body {
 }
 
 #cabecera {
-	background-color: rgb(9, 38, 90);
+	background-color: rgb(8, 32, 77);
 	box-shadow: 0px 2px 20px 20px rgb(100, 83, 83);
-	color: #dadada;
+	color: #cfcfcf;
 	padding: 0.5cm;
 	margin:0;
 	font-weight: bold;
-	font-size:30px;
+	font-size:60px;
+	vertical-align: middle;
 }
 
 #cabecera #tagline {
 	font-weight: none;
-	font-size:17px;
+	font-size:25px;
 	margin-left: 1cm;
+	vertical-align: middle;
+}
+
+img {
+	width:2ex;
+	margin-right: 3mm;
+	
 }
 
 #container {
