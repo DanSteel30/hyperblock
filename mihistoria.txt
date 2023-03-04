@@ -6,3 +6,11 @@ Daniel Acero Díaz es mi nombre
 
 Pero tambien soy Alexa y quiero ser parte esta historia. Escribí esta linea en el compu HP de Allison-Paola desde linux. soy muy tesa... jeje 
 Att: Alexa-DMS
+
+Genial... logré realizar: git push origin main desde el pc HP, no me lo permitia sino hasta crear el TOKEN con de acceso personal (clásico). 
+Se debe poner: 
+$ git clone https://github.com/USERNAME/REPO.git   (para el caso de hacer push desde el perfil Alexa pc HP-Linux tocó crear el token desde el git de alexa y hacer push, luego se pone la información: 
+
+$ git push origin main
+Username: YOUR_USERNAME 
+Password: YOUR_TOKEN (el token se copia del perfil github que hace push)
