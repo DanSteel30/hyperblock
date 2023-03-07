@@ -14,3 +14,9 @@ $ git clone https://github.com/USERNAME/REPO.git   (para el caso de hacer push d
 $ git push origin main
 Username: YOUR_USERNAME 
 Password: YOUR_TOKEN (el token se copia del perfil github que hace push)
+
+ACTIVIDAD: Traje este Repositorio desde FORK en Github y logré ponerlo en una carpeta local, dando el comando: git clone __dirección url de git del repositorio__ - Hoy es 6 de marzo de 2023... 
+
+
+
+
