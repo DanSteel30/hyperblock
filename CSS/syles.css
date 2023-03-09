@@ -54,6 +54,10 @@ img {
 	width: 70%;
  }
 
+ #imagen-url {
+	size: 50px;
+ }
+
 
 #footer {
 	background: #777;
